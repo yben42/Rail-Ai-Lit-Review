@@ -12,6 +12,21 @@ Railway delays and disruptions — often caused by signal failures, point faults
 
 ---
 
+## Contributors
+
+This literature review was completed as a group assignment for the MSc in Data Science and Artificial Intelligence at the University of Liverpool. The following students contributed to the research, writing, and analysis:
+
+- Choudhury, Devarshi  
+- Lee, Jiwon  
+- Nwabuoku, Michael  
+- Pavlou, Lucas  
+- Proffitt, Fia  
+- Uh, Jintaek  
+- Wijesinghe, Prathusha  
+- Yiu, Benjamin  
+
+---
+
 ## Topics Covered
 
 - Anomaly detection in signalling and switching systems  
